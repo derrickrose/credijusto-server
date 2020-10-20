@@ -1,4 +1,4 @@
-package credijusto.com.mx;
+package credijusto.com;
 
 import static org.junit.Assert.assertTrue;
 
